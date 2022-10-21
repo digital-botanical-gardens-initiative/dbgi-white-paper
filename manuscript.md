@@ -5,7 +5,7 @@ keywords:
 - publishing
 - manubot
 lang: en-US
-date-meta: '2022-10-14'
+date-meta: '2022-10-21'
 author-meta:
 - John Doe
 - Jane Roe
@@ -19,8 +19,8 @@ header-includes: |-
   <meta name="citation_title" content="Manuscript Title" />
   <meta property="og:title" content="Manuscript Title" />
   <meta property="twitter:title" content="Manuscript Title" />
-  <meta name="dc.date" content="2022-10-14" />
-  <meta name="citation_publication_date" content="2022-10-14" />
+  <meta name="dc.date" content="2022-10-21" />
+  <meta name="citation_publication_date" content="2022-10-21" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -41,9 +41,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://digital-botanical-gardens-initiative.github.io/dbgi-white-paper/" />
   <meta name="citation_pdf_url" content="https://digital-botanical-gardens-initiative.github.io/dbgi-white-paper/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://digital-botanical-gardens-initiative.github.io/dbgi-white-paper/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://digital-botanical-gardens-initiative.github.io/dbgi-white-paper/v/c178af2a1deca573fb12a8a901f6a2248ffa523d/" />
-  <meta name="manubot_html_url_versioned" content="https://digital-botanical-gardens-initiative.github.io/dbgi-white-paper/v/c178af2a1deca573fb12a8a901f6a2248ffa523d/" />
-  <meta name="manubot_pdf_url_versioned" content="https://digital-botanical-gardens-initiative.github.io/dbgi-white-paper/v/c178af2a1deca573fb12a8a901f6a2248ffa523d/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://digital-botanical-gardens-initiative.github.io/dbgi-white-paper/v/ab080ac1b6f002e6d6a444b44cef75c50b608192/" />
+  <meta name="manubot_html_url_versioned" content="https://digital-botanical-gardens-initiative.github.io/dbgi-white-paper/v/ab080ac1b6f002e6d6a444b44cef75c50b608192/" />
+  <meta name="manubot_pdf_url_versioned" content="https://digital-botanical-gardens-initiative.github.io/dbgi-white-paper/v/ab080ac1b6f002e6d6a444b44cef75c50b608192/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -65,10 +65,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://digital-botanical-gardens-initiative.github.io/dbgi-white-paper/v/c178af2a1deca573fb12a8a901f6a2248ffa523d/))
+([permalink](https://digital-botanical-gardens-initiative.github.io/dbgi-white-paper/v/ab080ac1b6f002e6d6a444b44cef75c50b608192/))
 was automatically generated
-from [digital-botanical-gardens-initiative/dbgi-white-paper@c178af2](https://github.com/digital-botanical-gardens-initiative/dbgi-white-paper/tree/c178af2a1deca573fb12a8a901f6a2248ffa523d)
-on October 14, 2022.
+from [digital-botanical-gardens-initiative/dbgi-white-paper@ab080ac](https://github.com/digital-botanical-gardens-initiative/dbgi-white-paper/tree/ab080ac1b6f002e6d6a444b44cef75c50b608192)
+on October 21, 2022.
 </em></small>
 
 ## Authors
@@ -111,6 +111,7 @@ Jane Roe \<jane.roe@whatever.edu\>.
 ## Abstract {.page_break_before}
 
 
+The Digital Botanical Gardens Initiative (DBGI) ambitions to explore innovative solutions for the collection, management and sharing of digital information acquired on living botanical collections. A particular focus will be placed on the large scale characterization of the chemodiversity of living plants collections through mass spectrometric approaches. The acquired data will be structured, organized and connected with relevant metadata through semantic web technology. The gathered knowledge will then inform ecosystem functioning research and orient biodiversity conservation projects. The DBGI initially aims to take advantage of the readily available living collections of Swiss botanical gardens to establish robust and scalable chemo- and biodiversity digitisation workflows. The ultimate goal is to apply these approaches in the field and at the global scale in wild ecosystems. 
 
 
 This manuscript is a template (aka "rootstock") for [Manubot](https://manubot.org/ "Manubot"), a tool for writing scholarly manuscripts.
